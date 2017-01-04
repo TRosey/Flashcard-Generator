@@ -1,0 +1,2 @@
+
+{"front":"Who won the 2016 NL MVP?","back":"Kris Bryant"}
